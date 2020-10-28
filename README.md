@@ -1,5 +1,5 @@
 # Pandas Challenge
-pandas-challenge week 4 homework, done by Jeongdae (JD) Kwak
+pandas-challenge week 4 homework, done by Jeongdae (JD) Kwak.
 
 ## Background
 The data dive continues!
